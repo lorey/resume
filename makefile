@@ -3,5 +3,5 @@ all:
 	bibtex resume.aux && \
 	xelatex -synctex=1 -interaction=nonstopmode resume.xtx && \
 	xelatex -synctex=1 -interaction=nonstopmode resume.xtx && \
-	convert -density 300 resume.pdf -resize 50% resume.png
+	convert -quality 100 -density 150 -flatten resume.pdf resume.png
 
