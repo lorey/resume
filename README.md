@@ -1,4 +1,4 @@
-![Resume preview](https://github.com/lorey/resume/raw/master/resume.png)
+![Resume preview](https://github.com/lorey/resume/raw/master/resume.jpg)
 
 # Resume of Karl Lorey
 
