@@ -12,11 +12,12 @@ This is my resume. It's written in TeX, based on the awesome [Deedy Resume](http
 make
 ```
 
-which executes
+which executes xelatex, bibtex, and two times xelatex again to get the citations to work:
 
 ```bash
 xelatex -synctex=1 -interaction=nonstopmode resume.xtx
 bibtex resume.aux
+xelatex -synctex=1 -interaction=nonstopmode resume.xtx
 xelatex -synctex=1 -interaction=nonstopmode resume.xtx
 convert -density 300 resume.pdf -resize 50% resume.png
 ```
