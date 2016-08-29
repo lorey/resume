@@ -9,5 +9,14 @@ This is my resume. It's written in TeX, based on the awesome [Deedy Resume](http
 ## Compilation
 
 ```bash
-xelatex -synctex=1 -interaction=nonstopmode resume.xtx && bibtex resume.aux && xelatex -synctex=1 -interaction=nonstopmode resume.xtx && convert -density 300 resume.pdf -resize 50% resume.png
+make
+```
+
+which executes
+
+```bash
+xelatex -synctex=1 -interaction=nonstopmode resume.xtx
+bibtex resume.aux
+xelatex -synctex=1 -interaction=nonstopmode resume.xtx
+convert -density 300 resume.pdf -resize 50% resume.png
 ```
