@@ -85,7 +85,7 @@
 
 \subsection{KIT}
 \descript{MSc in Computer Science}
-\location{Exp. Feb 2016 | Karlsruhe, Germany}
+\location{Exp. Feb 2017 | Karlsruhe, Germany}
 focus: Information Systems, Software Engineering\\
 minor: Economics, i.e. Entrepreneurship
 \sectionsep
@@ -93,8 +93,9 @@ minor: Economics, i.e. Entrepreneurship
 \subsection{University of Würzburg}
 \descript{BSc in Computer Science}
 \location{Grad. Sep 2013 | Würzburg, Germany}
-with distinction\\
-minor: Economics
+focus: Information Systems\\
+minor: Economics\\
+with distinction
 \sectionsep
 
 \subsection{Gymnasium Weikersheim}
@@ -109,9 +110,9 @@ with distinction
 
 \section{Links} 
 Github:// \href{https://github.com/lorey}{\bf lorey} \\
-LinkedIn://  \href{https://www.linkedin.com/in/karllorey}{\bf Karl Lorey} \\
-Twitter://  \href{https://twitter.com/karllorey}{\bf @karllorey} \\
-StackOverflow://  \href{https://stackoverflow.com/users/1275778/lorey}{\bf lorey}
+LinkedIn:// \href{https://www.linkedin.com/in/karllorey}{\bf Karl Lorey} \\
+Twitter:// \href{https://twitter.com/karllorey}{\bf @karllorey} \\
+StackOverflow:// \href{https://stackoverflow.com/users/1275778/lorey}{\bf lorey}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -123,17 +124,17 @@ StackOverflow://  \href{https://stackoverflow.com/users/1275778/lorey}{\bf lorey
 \location{Experienced:}
 PHP \textbullet{} SQL \\ 
 \location{Intermediate:}
-Java \textbullet{} Python \textbullet{} HTML \textbullet{} CSS \textbullet{} JavaScript \\
+Java \textbullet{} Python \textbullet{} HTML + CSS \\
 \location{Familiar:}
-LaTeX \textbullet{} R \textbullet{} Shell \textbullet{} XSLT
+LaTeX \textbullet{} R \textbullet{} Shell \textbullet{} XSLT \textbullet{} JavaScript
 \sectionsep
 
 \subsection{Technology}
-Laravel \textbullet{} Postgres \textbullet{} PostGIS \textbullet{} GIT \textbullet{} Linux \textbullet{} Apache \textbullet{} KNIME \textbullet{} SPSS \textbullet{} Analytics \textbullet{} Excel \textbullet{} LDAP
+Laravel \textbullet{} Postgres \textbullet{} PostGIS \textbullet{} GIT \textbullet{} Unix \textbullet{} Apache \textbullet{} KNIME \textbullet{} SPSS \textbullet{} Analytics \textbullet{} Excel \textbullet{} LDAP
 \sectionsep
 
 \subsection{Other}
-Entrepreneurship \textbullet{} Software Engineering \textbullet{} Web Development \textbullet{} Data Mining \textbullet{} Web Crawling \textbullet{} Geospatial Data \textbullet{} Social Network Analysis \textbullet{} Secure Storage (Database Encryption)
+Entrepreneurship \textbullet{} Software Engineering \textbullet{} Web Development \textbullet{} Data Mining \textbullet{} Web Crawling \textbullet{} Geospatial Data \textbullet{} Social Network Analysis \textbullet{} Secure Storage (Database Encryption) \textbullet{} Quantified Self
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
