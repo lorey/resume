@@ -6,6 +6,11 @@ This is my resume. It's written in TeX, based on the awesome [Deedy Resume](http
 
 [View PDF](https://github.com/lorey/resume/raw/master/resume.pdf)
 
+## Modification
+* Small bibliography
+* Sidebar without coursework
+* Sidebar with extended skills section
+
 ## Compilation
 
 ```bash
