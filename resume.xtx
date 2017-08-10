@@ -66,7 +66,7 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \namesection{Karl}{Lorey}{ \urlstyle{same}\href{http://karllorey.com}{karllorey.com}\\
-\href{mailto:git@karllorey.com}{git@karllorey.com} | +49 178 1665514 | Karlsruhe, Germany
+\href{mailto:git@karllorey.com}{git@karllorey.com} | +49 152 08407840 | Karlsruhe, Germany
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -85,7 +85,7 @@
 
 \subsection{KIT}
 \descript{MSc in Computer Science}
-\location{Exp. Feb 2017 | Karlsruhe, Germany}
+\location{Exp. Nov 2017 | Karlsruhe, Germany}
 focus: Information Systems, Software Engineering\\
 minor: Economics, i.e. Entrepreneurship
 \sectionsep
@@ -122,19 +122,19 @@ StackOverflow:// \href{https://stackoverflow.com/users/1275778/lorey}{\bf lorey}
 \section{Skills}
 \subsection{Programming}
 \location{Experienced:}
-PHP \textbullet{} SQL \\ 
+PHP \textbullet{} SQL \textbullet{} Python \\ 
 \location{Intermediate:}
-Java \textbullet{} Python \textbullet{} HTML + CSS \\
+Java \textbullet{} HTML + CSS \\
 \location{Familiar:}
 LaTeX \textbullet{} R \textbullet{} Shell \textbullet{} XSLT \textbullet{} JavaScript
 \sectionsep
 
 \subsection{Technology}
-Laravel \textbullet{} Postgres \textbullet{} PostGIS \textbullet{} GIT \textbullet{} Unix \textbullet{} Apache \textbullet{} KNIME \textbullet{} SPSS \textbullet{} Analytics \textbullet{} Excel \textbullet{} LDAP
+scikit-learn \textbullet{} Pandas \textbullet{} Laravel \textbullet{} Postgres \textbullet{} PostGIS \textbullet{} GIT \textbullet{} Unix \textbullet{} Apache \textbullet{} KNIME \textbullet{} SPSS \textbullet{} Analytics \textbullet{} Excel \textbullet{} LDAP
 \sectionsep
 
 \subsection{Other}
-Entrepreneurship \textbullet{} Software Engineering \textbullet{} Web Development \textbullet{} Data Mining \textbullet{} Web Crawling \textbullet{} Geospatial Data \textbullet{} Social Network Analysis \textbullet{} Secure Storage (Database Encryption) \textbullet{} Quantified Self
+Entrepreneurship \textbullet{} Software Engineering \textbullet{} Clean Code \textbullet{} Web Development \textbullet{} Data Mining \textbullet{} Web Crawling \textbullet{} Geospatial Data \textbullet{} Social Network Analysis \textbullet{} Secure Storage (Database Encryption) \textbullet{} Quantified Self
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -157,19 +157,27 @@ Entrepreneurship \textbullet{} Software Engineering \textbullet{} Web Developmen
 \location{Mar 2016 - Present | Stuttgart, Germany}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item help foreign IT professionals to find a job in Germany
-\item provide companies with well-skilled and suiting professionals
+\item provided companies with well-skilled IT professionals from abroad.
 \item built a platform and a job board allowing techies to apply for jobs in Germany
+\item applied Machine Learning to implement a scalable screening process.
 \end{tightemize}
 \sectionsep
 
 \runsubsection{PionierGarage}
-\descript{| Chairman }
+\descript{| Chairman}
 \location{July 2015 – Feb 2016 | Karlsruhe, Germany}
 \begin{tightemize}
 \item was elected chairman of Germany's biggest student club for entrepreurship
 \item lead a board of six members and the club with around 100 members
-\item hosted events, managed public relations as well as contact with the alumni
+\item hosted events, managed public relations as well as contact with alumni
+\end{tightemize}
+\sectionsep
+
+\runsubsection{ProgrammerMap.com}
+\descript{| Founder}
+\location{Jan 2015 – present | Karlsruhe, Germany}
+\begin{tightemize}
+\item created and operated a site that shows a ranking of the best programmers for various locations worldwide with a four figure number of daily visitors.
 \end{tightemize}
 \sectionsep
 
@@ -179,14 +187,6 @@ Entrepreneurship \textbullet{} Software Engineering \textbullet{} Web Developmen
 \begin{tightemize}
 \item conducted research on flight data to find influencing factors on airplane vibrations via Data Mining techniques using SPSS and KNIME
 %\item researched different time-series databases for their applicability to store data in-flight
-\end{tightemize}
-\sectionsep
-
-\runsubsection{Kursverwaltung Online}
-\descript{| Founder }
-\location{Oct 2014 – present | Karlsruhe, Germany}
-\begin{tightemize}
-\item created and operated a SaaS platform for online course enrollment and enrollment administration
 \end{tightemize}
 \sectionsep
 
@@ -215,7 +215,7 @@ Planned, created, and implemented a framework to measure subjective influence in
 %     AWARDS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Awards} 
+\section{Awards}
 \begin{tabular}{rll}
 2016 & award & Award for Student Commitment (KIT)\\
 2016 & 3\textsuperscript{rd} & Hack.Stuttgart hackathon by Daimler\\
