@@ -11,13 +11,23 @@ This is my resume. It's written in TeX, based on the awesome [Deedy Resume](http
 * Sidebar without coursework
 * Sidebar with extended skills section
 
-## Compilation
+## Requirements
+* xelatex, bibtex
+* imagemagick
+* Fonts: [Lato](https://fonts.google.com/specimen/Lato) and [Raleway](https://fonts.google.com/specimen/Raleway)
 
+## Installation (Docker)
+* build the dockerfile: `docker build -t lorey/resume .`
+* run inside docker `docker run --rm -v $(pwd):/data lorey/resume make`
+
+## Usage
+There is a Makefile that defines all outputs.
+You can run it inside the Docker container (see above) or locally (see below):
 ```bash
 make
 ```
 
-which executes xelatex, bibtex, and two times xelatex again to get the citations to work:
+It basically executes xelatex, bibtex, and two times xelatex again to get the citations to work:
 
 ```bash
 xelatex -synctex=1 -interaction=nonstopmode resume.xtx
