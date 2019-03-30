@@ -65,8 +65,8 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Karl}{Lorey}{ \urlstyle{same}\href{http://karllorey.com}{karllorey.com}\\
-\href{mailto:git@karllorey.com}{git@karllorey.com} | +49 152 08407840 | Karlsruhe, Germany
+\namesection{Karl}{Lorey}{ \urlstyle{same}\href{https://karllorey.com}{karllorey.com}\\
+\href{mailto:git@karllorey.com}{git@karllorey.com} | +49 152 0840 7840 | Karlsruhe, Germany
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -83,11 +83,12 @@
 
 \section{Education} 
 
-\subsection{KIT}
+\subsection{KIT, Karlsruhe}
 \descript{MSc in Computer Science}
-\location{Exp. Nov 2017 | Karlsruhe, Germany}
-focus: Information Systems, Software Engineering\\
-minor: Economics, i.e. Entrepreneurship
+\location{Grad. Nov 2017 | Karlsruhe, Germany}
+focus: Information Systems, Software~Engineering\\
+minor: Economics/Entrepreneurship\\
+with distinction
 \sectionsep
 
 \subsection{University of Würzburg}
@@ -100,7 +101,7 @@ with distinction
 
 \subsection{Gymnasium Weikersheim}
 \descript{Abitur}
-\location{Grad. June 2009 | Weikersheim, Germany}
+\location{Grad. June 2009 | Weikersheim,~Germany}
 with distinction
 \sectionsep
 
@@ -110,9 +111,10 @@ with distinction
 
 \section{Links} 
 Github:// \href{https://github.com/lorey}{\bf lorey} \\
+Instagram:// \href{https://instagram.com/karllorey}{\bf @karllorey} \\
 LinkedIn:// \href{https://www.linkedin.com/in/karllorey}{\bf Karl Lorey} \\
-Twitter:// \href{https://twitter.com/karllorey}{\bf @karllorey} \\
-StackOverflow:// \href{https://stackoverflow.com/users/1275778/lorey}{\bf lorey}
+% StackOverflow:// \href{https://stackoverflow.com/users/1275778/lorey}{\bf lorey} \\
+Twitter:// \href{https://twitter.com/karllorey}{\bf @karllorey}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -122,19 +124,52 @@ StackOverflow:// \href{https://stackoverflow.com/users/1275778/lorey}{\bf lorey}
 \section{Skills}
 \subsection{Programming}
 \location{Experienced:}
-PHP \textbullet{} SQL \textbullet{} Python \\ 
+Python \textbullet{}
+PHP \textbullet{}
+SQL \\
 \location{Intermediate:}
-Java \textbullet{} HTML + CSS \\
+Java \textbullet{}
+HTML/CSS \textbullet{}
+JavaScript \\
 \location{Familiar:}
-LaTeX \textbullet{} R \textbullet{} Shell \textbullet{} XSLT \textbullet{} JavaScript
+LaTeX \textbullet{}
+R \textbullet{}
+Bash \textbullet{}
+XSLT
 \sectionsep
 
 \subsection{Technology}
-scikit-learn \textbullet{} Pandas \textbullet{} Laravel \textbullet{} Postgres \textbullet{} PostGIS \textbullet{} GIT \textbullet{} Unix \textbullet{} Apache \textbullet{} KNIME \textbullet{} SPSS \textbullet{} Analytics \textbullet{} Excel \textbullet{} LDAP
+scikit-learn \textbullet{}
+Pandas \textbullet{}
+Laravel \textbullet{}
+Docker \textbullet{}
+Terraform \textbullet{}
+AWS \textbullet{}
+Postgres \textbullet{}
+PostGIS \textbullet{}
+GIT \textbullet{}
+Unix \textbullet{}
+Apache \textbullet{}
+KNIME \textbullet{}
+SPSS \textbullet{}
+Analytics \textbullet{}
+Excel \textbullet{}
+LDAP
 \sectionsep
 
-\subsection{Other}
-Entrepreneurship \textbullet{} Software Engineering \textbullet{} Clean Code \textbullet{} Web Development \textbullet{} Data Mining \textbullet{} Web Crawling \textbullet{} Geospatial Data \textbullet{} Social Network Analysis \textbullet{} Secure Storage (Database Encryption) \textbullet{} Quantified Self
+\subsection{Topics}
+Venture Capital~\textbullet{}
+Entrepreneurship~\textbullet{}
+Automation~\textbullet{}
+Software~Engineering~\textbullet{}
+Clean~Code~\textbullet{}
+Web~Development~\textbullet{}
+Machine~Learning~\textbullet{}
+Crawling/Scraping~\textbullet{}
+Geospatial~Data~\textbullet{}
+Social Network Analysis~\textbullet{}
+Secure~Storage~\textbullet{}
+Quantified~Self
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -152,10 +187,19 @@ Entrepreneurship \textbullet{} Software Engineering \textbullet{} Clean Code \te
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
+\runsubsection{First Momentum}
+\descript{| Founding Partner}
+\location{Jul 2017 - Present | Karlsruhe, Germany}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item founding a venture capital fund to close the German pre-seed funding gap
+\item establishing a technological competitive advantage by implementing scrapers and machine learning to find investment opportunities
+\end{tightemize}
+\sectionsep
+
 \runsubsection{German IT Jobs}
 \descript{| Co-Founder }
-\location{Mar 2016 - Present | Stuttgart, Germany}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\location{Jul 2016 - Mar 2017 | Stuttgart, Germany}
 \begin{tightemize}
 \item provided companies with well-skilled IT professionals from abroad.
 \item built a platform and a job board allowing techies to apply for jobs in Germany
@@ -165,19 +209,11 @@ Entrepreneurship \textbullet{} Software Engineering \textbullet{} Clean Code \te
 
 \runsubsection{PionierGarage}
 \descript{| Chairman}
-\location{July 2015 – Feb 2016 | Karlsruhe, Germany}
+\location{Jul 2015 – Feb 2016 | Karlsruhe, Germany}
 \begin{tightemize}
 \item was elected chairman of Germany's biggest student club for entrepreurship
 \item lead a board of six members and the club with around 100 members
 \item hosted events, managed public relations as well as contact with alumni
-\end{tightemize}
-\sectionsep
-
-\runsubsection{ProgrammerMap.com}
-\descript{| Founder}
-\location{Jan 2015 – present | Karlsruhe, Germany}
-\begin{tightemize}
-\item created and operated a site that shows a ranking of the best programmers for various locations worldwide with a four figure number of daily visitors.
 \end{tightemize}
 \sectionsep
 
