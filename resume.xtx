@@ -231,8 +231,8 @@ Planned, created, and implemented a framework to measure subjective influence in
 %     PUBLICATIONS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Publications} 
-\renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
+\section{Publications}
+\renewcommand\refname{\vskip -0.75cm} % Couldn't get this working from the .cls file
 \bibliographystyle{abbrv}
 {\footnotesize \bibliography{publications}}
 \nocite{*}
