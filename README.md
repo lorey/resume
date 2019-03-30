@@ -20,6 +20,9 @@ This is my resume. It's written in TeX, based on the awesome [Deedy Resume](http
 * build the dockerfile: `docker build -t lorey/resume .`
 * run inside docker `docker run --rm -v $(pwd):/data lorey/resume make`
 
+Please keep in mind that the full latex installation and thus the docker image needs around 2GB of storage...
+If you have latex installed already, I would just run the makefile locally.
+
 ## Usage
 There is a Makefile that defines all outputs.
 You can run it inside the Docker container (see above) or locally (see below):

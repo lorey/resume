@@ -32,6 +32,11 @@ RUN apt-get update && \
 RUN apt-get autoclean && apt-get --purge --yes autoremove && \
   rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 
+# install fonts
+COPY fonts/lato/* /usr/local/share/fonts/
+COPY fonts/raleway/* /usr/local/share/fonts/
+RUN fc-cache
+
 # Export the output data
 WORKDIR /data
 VOLUME ["/data"]
