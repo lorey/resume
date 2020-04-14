@@ -123,41 +123,52 @@ Twitter:// \href{https://twitter.com/karllorey}{\bf @karllorey}
 
 \section{Skills}
 \subsection{Programming}
-\location{Experienced:}
+Experienced:
 Python \textbullet{}
-PHP \textbullet{}
-SQL \\
-\location{Intermediate:}
+SQL \textbullet{}
+PHP \\
+Intermediate:
 Java \textbullet{}
 HTML/CSS \textbullet{}
 JavaScript \\
-\location{Familiar:}
+Familiar:
 LaTeX \textbullet{}
 R \textbullet{}
 Bash \textbullet{}
 XSLT
 \sectionsep
 
-\subsection{Technology}
+\subsection{Technologies}
 scikit-learn \textbullet{}
 Pandas \textbullet{}
+spaCy \textbullet{}
+Django \textbullet{}
 Laravel \textbullet{}
 Docker \textbullet{}
 Terraform \textbullet{}
+Ansible \textbullet{}
+GNU Make \textbullet{}
 AWS \textbullet{}
 Postgres \textbullet{}
 PostGIS \textbullet{}
+SQLite \textbullet{}
+MySQL/MariaDB \textbullet{}
+elasticsearch \textbullet{}
 GIT \textbullet{}
 Unix \textbullet{}
+Debian \textbullet{}
 Apache \textbullet{}
+Nginx \textbullet{}
 KNIME \textbullet{}
 SPSS \textbullet{}
 Analytics \textbullet{}
 Excel \textbullet{}
-LDAP
+LDAP \textbullet{}
+i3wm
 \sectionsep
 
 \subsection{Topics}
+Academic~Research~\textbullet{}
 Venture Capital~\textbullet{}
 Entrepreneurship~\textbullet{}
 Automation~\textbullet{}
@@ -167,9 +178,7 @@ Web~Development~\textbullet{}
 Machine~Learning~\textbullet{}
 Crawling/Scraping~\textbullet{}
 Geospatial~Data~\textbullet{}
-Social Network Analysis~\textbullet{}
-Secure~Storage~\textbullet{}
-Quantified~Self
+Social Network Analysis
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -192,7 +201,7 @@ Quantified~Self
 \location{Jul 2017 - Present | Karlsruhe, Germany}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item founding a venture capital fund to close the German pre-seed funding gap
+\item founding and leading a tech-focued early-stage venture capital fund with a volume of €5M
 \item establishing a technological competitive advantage by implementing scrapers and machine learning to find investment opportunities
 \end{tightemize}
 \sectionsep
@@ -201,9 +210,8 @@ Quantified~Self
 \descript{| Co-Founder }
 \location{Jul 2016 - Mar 2017 | Stuttgart, Germany}
 \begin{tightemize}
-\item provided companies with well-skilled IT professionals from abroad.
-\item built a platform and a job board allowing techies to apply for jobs in Germany
-\item applied Machine Learning to implement a scalable screening process.
+\item built a platform for foreign IT professional willing to relocate to Germany
+\item automated the recruiting process and applied Machine Learning to implement a scalable screening process
 \end{tightemize}
 \sectionsep
 
