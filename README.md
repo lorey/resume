@@ -7,13 +7,15 @@ It's written in TeX, based on the awesome [Deedy Resume](https://github.com/deed
 and inspired by [Johannes Schickling's resume](https://github.com/schickling/resume).
 I added a preview generation and defined a Docker image to run it without any hassle.
 The resume itself has a smaller bibliography to fit more publications
-and a sidebar with more skills instead of coursework
+and a sidebar with an added about section 
+and  more skills instead of coursework
 to focus on actual experience.
 
 [View PDF](https://github.com/lorey/resume/raw/master/resume.pdf)
 
 ## Modifications
 * Small bibliography to fit more publications
+* Sidebar with about section at the start
 * Sidebar without coursework, IMHO superfluous if you have work experience
 * Sidebar with extended skills section, to focus on said experience
 

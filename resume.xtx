@@ -81,41 +81,41 @@
 %     EDUCATION
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\section{About}
+Technologist with an entrepreneurial and academical background, 
+leveraging scraping, machine learning and web development
+to build data-intensive platforms from the ground up.
+\sectionsep
+
+LinkedIn:// \href{https://www.linkedin.com/in/karllorey}{\bf Karl Lorey} \\
+Github:// \href{https://github.com/lorey}{\bf lorey} \\
+% Instagram:// \href{https://instagram.com/karllorey}{\bf @karllorey} \\
+% StackOverflow:// \href{https://stackoverflow.com/users/1275778/lorey}{\bf lorey} \\
+Twitter:// \href{https://twitter.com/karllorey}{\bf @karllorey}
+\sectionsep
+
 \section{Education} 
 
-\subsection{KIT, Karlsruhe}
+\subsection{KIT}
 \descript{MSc in Computer Science}
-\location{Grad. Nov 2017 | Karlsruhe, Germany}
-focus: Information Systems, Software~Engineering\\
-minor: Economics/Entrepreneurship\\
+\location{Nov 2017 | Karlsruhe, Germany}
+Information~Systems, Software~Engineering, Entrepreneurship\\
 A+, with distinction
 \sectionsep
 
 \subsection{University of Würzburg}
 \descript{BSc in Computer Science}
-\location{Grad. Sep 2013 | Würzburg, Germany}
-focus: Information Systems\\
-minor: Economics\\
+\location{Sep 2013 | Würzburg, Germany}
+Information~Systems, Economics\\
 A+, with distinction
 \sectionsep
 
 \subsection{Gymnasium Weikersheim}
 \descript{Abitur}
-\location{Grad. June 2009 | Weikersheim,~Germany}
+\location{Jun 2009 | Weikersheim,~Germany}
 with distinction
 \sectionsep
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     LINKS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Links} 
-Github:// \href{https://github.com/lorey}{\bf lorey} \\
-Instagram:// \href{https://instagram.com/karllorey}{\bf @karllorey} \\
-LinkedIn:// \href{https://www.linkedin.com/in/karllorey}{\bf Karl Lorey} \\
-% StackOverflow:// \href{https://stackoverflow.com/users/1275778/lorey}{\bf lorey} \\
-Twitter:// \href{https://twitter.com/karllorey}{\bf @karllorey}
-\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
