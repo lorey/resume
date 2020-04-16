@@ -140,8 +140,10 @@ XSLT
 
 \subsection{Technologies}
 scikit-learn \textbullet{}
-Pandas \textbullet{}
 spaCy \textbullet{}
+Pandas \textbullet{}
+Scrapy \textbullet{}
+Selenium \textbullet{}
 Django \textbullet{}
 Laravel \textbullet{}
 Docker \textbullet{}
