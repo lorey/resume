@@ -83,9 +83,8 @@
 
 \section{About}
 Technologist with an entrepreneurial and academical background, 
-leveraging scraping, machine learning and web development
-to build data-intensive platforms from the ground up.
-\sectionsep
+leveraging machine learning, scraping, and web development
+to build data-intensive platforms.
 
 LinkedIn:// \href{https://www.linkedin.com/in/karllorey}{\bf Karl Lorey} \\
 Github:// \href{https://github.com/lorey}{\bf lorey} \\
@@ -157,16 +156,17 @@ SQLite \textbullet{}
 MySQL/MariaDB \textbullet{}
 elasticsearch \textbullet{}
 GIT \textbullet{}
+Gitlab \textbullet{}
 Unix \textbullet{}
 Debian \textbullet{}
 Apache \textbullet{}
 Nginx \textbullet{}
 KNIME \textbullet{}
 SPSS \textbullet{}
-Analytics \textbullet{}
-Excel \textbullet{}
+Grafana \textbullet{}
 LDAP \textbullet{}
-i3wm
+i3wm \textbullet{}
+UML
 \sectionsep
 
 \subsection{Topics}
