@@ -203,7 +203,7 @@ Social Network Analysis
 \location{Jul 2017 - Present | Karlsruhe, Germany}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item founding and leading a tech-focued early-stage venture capital fund with a volume of €5M
+\item founding and leading a tech-focused early-stage venture capital fund with a volume of €5M
 \item establishing a technological competitive advantage by implementing scrapers and machine learning to find investment opportunities
 \end{tightemize}
 \sectionsep
@@ -221,7 +221,7 @@ Social Network Analysis
 \descript{| Chairman}
 \location{Jul 2015 – Feb 2016 | Karlsruhe, Germany}
 \begin{tightemize}
-\item was elected chairman of Germany's biggest student club for entrepreurship
+\item was elected chairman of Germany's biggest student club for entrepreneurship
 \item lead a board of six members and the club with around 100 members
 \item hosted events, managed public relations as well as contact with alumni
 \end{tightemize}
@@ -244,7 +244,7 @@ Social Network Analysis
 \runsubsection{Chair Prof. Böhm, IPD, KIT}
 \descript{| Research Assisstant}
 \location{May 2015 – Jun 2016 | Karlsruhe Institute of Technology, Germany}
-Created a Secure Storage mechaism that resides inside the Database Abstraction Layer.
+Created a Secure Storage mechanism that resides inside the Database Abstraction Layer.
 Presented results at CAiSE in Ljubljana, Slovenia.
 \cite{lorey2016teal}
 \sectionsep
