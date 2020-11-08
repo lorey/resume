@@ -82,9 +82,11 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{About}
+\begin{flushleft}
 Technologist with an entrepreneurial and academical background, 
 leveraging machine learning, scraping, and web development
 to build data-intensive platforms.
+\end{flushleft}
 
 LinkedIn:// \href{https://www.linkedin.com/in/karllorey}{\bf Karl Lorey} \\
 Github:// \href{https://github.com/lorey}{\bf lorey} \\
@@ -108,13 +110,6 @@ A+, with distinction
 Information~Systems, Economics\\
 A+, with distinction
 \sectionsep
-
-\subsection{Gymnasium Weikersheim}
-\descript{Abitur}
-\location{Jun 2009 | Weikersheim,~Germany}
-with distinction
-\sectionsep
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
