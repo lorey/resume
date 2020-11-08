@@ -116,65 +116,71 @@ A+, with distinction
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Skills}
-\subsection{Programming}
-Experienced:
-Python \textbullet{}
-SQL \textbullet{}
-PHP \\
-Intermediate:
-Java \textbullet{}
-HTML/CSS \textbullet{}
-JavaScript \\
-Familiar:
-LaTeX \textbullet{}
-R \textbullet{}
-Bash \textbullet{}
-XSLT
+\subsection{Languages}
+Experienced:\\
+Python
+\textbullet{}~SQL
+\textbullet{}~PHP\\
+Intermediate:\\
+Java
+\textbullet{}~HCL
+\textbullet{}~HTML/CSS
+\textbullet{}~JavaScript\\
+Familiar:\\
+LaTeX
+\textbullet{}~YAML
+\textbullet{}~R
+\textbullet{}~Bash
+\textbullet{}~XSLT
 \sectionsep
 
 \subsection{Technologies}
-scikit-learn \textbullet{}
-spaCy \textbullet{}
-Pandas \textbullet{}
-Scrapy \textbullet{}
-Selenium \textbullet{}
-Django \textbullet{}
-Laravel \textbullet{}
-Docker \textbullet{}
-Terraform \textbullet{}
-Ansible \textbullet{}
-GNU Make \textbullet{}
-AWS \textbullet{}
-Postgres \textbullet{}
-PostGIS \textbullet{}
-SQLite \textbullet{}
-MySQL/MariaDB \textbullet{}
-elasticsearch \textbullet{}
-GIT \textbullet{}
-Gitlab \textbullet{}
-Unix \textbullet{}
-Debian \textbullet{}
-Apache \textbullet{}
-Nginx \textbullet{}
-KNIME \textbullet{}
-SPSS \textbullet{}
-Grafana \textbullet{}
-LDAP \textbullet{}
-i3wm \textbullet{}
-UML
+scikit-learn
+\textbullet{}~spaCy
+\textbullet{}~Pandas
+\textbullet{}~Scrapy
+\textbullet{}~Selenium
+\textbullet{}~Django
+\textbullet{}~Laravel
+\textbullet{}~Docker
+\textbullet{}~Terraform
+\textbullet{}~Ansible
+\textbullet{}~GNU Make
+\textbullet{}~AWS
+\textbullet{}~GCP
+\textbullet{}~Postgres
+\textbullet{}~PostGIS
+\textbullet{}~SQLite
+\textbullet{}~MySQL/MariaDB
+\textbullet{}~MongoDB
+\textbullet{}~elasticsearch
+\textbullet{}~Redis
+\textbullet{}~GIT
+\textbullet{}~Gitlab
+\textbullet{}~Unix
+\textbullet{}~Debian
+\textbullet{}~Apache
+\textbullet{}~Nginx
+\textbullet{}~KNIME
+\textbullet{}~SPSS
+\textbullet{}~Grafana
+\textbullet{}~LDAP
+\textbullet{}~i3wm
+\textbullet{}~UML
 \sectionsep
 
 \subsection{Topics}
-Academic~Research~\textbullet{}
-Venture Capital~\textbullet{}
-Entrepreneurship~\textbullet{}
-Automation~\textbullet{}
-Software~Engineering~\textbullet{}
-Clean~Code~\textbullet{}
-Web~Development~\textbullet{}
-Machine~Learning~\textbullet{}
-Crawling/Scraping~\textbullet{}
-Geospatial~Data~\textbullet{}
+Academic~Research,
+Venture Capital,
+Entrepreneurship,
+Automation,
+Software~Engineering,
+Clean~Code,
+Test-driven~development,
+Web~Development,
+Machine~Learning,
+Crawling/Scraping,
+Geospatial~Data,
 Social Network Analysis
 \sectionsep
 
