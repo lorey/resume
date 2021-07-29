@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM debian:buster
 
 ENV DEBIAN_FRONTEND noninteractive
 
@@ -14,8 +14,8 @@ RUN apt-get update && \
   texlive-fonts-recommended \
   texlive-generic-recommended \
   texlive-lang-english \
-  latex-xcolor \
-  texlive-math-extra \
+  # latex-xcolor \
+  # texlive-math-extra \
   texlive-latex-extra \
   texlive-bibtex-extra \
   texlive-full \
@@ -36,6 +36,9 @@ RUN apt-get autoclean && apt-get --purge --yes autoremove && \
 COPY fonts/lato/* /usr/local/share/fonts/
 COPY fonts/raleway/* /usr/local/share/fonts/
 RUN fc-cache
+
+# remove PDF policy to avoid error
+RUN sed -i '/<policy .*pattern="PDF" \/>/d' /etc/ImageMagick-6/policy.xml
 
 # Export the output data
 WORKDIR /data
