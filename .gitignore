@@ -1,1 +1,9 @@
 .data/
+
+# tex
+resume.aux
+resume.bbl
+resume.blg
+resume.log
+resume.out
+resume.synctex.gz
