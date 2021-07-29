@@ -228,15 +228,6 @@ Social Network Analysis
 \end{tightemize}
 \sectionsep
 
-\runsubsection{KIT: IMK-ASF}
-\descript{| Research Assisstant}
-\location{Nov 2014 – Apr 2015 | Karlsruhe, Germany}
-\begin{tightemize}
-\item conducted research on flight data to find influencing factors on airplane vibrations via Data Mining techniques using SPSS and KNIME
-%\item researched different time-series databases for their applicability to store data in-flight
-\end{tightemize}
-\sectionsep
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     RESEARCH
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -248,6 +239,13 @@ Social Network Analysis
 Created a Secure Storage mechanism that resides inside the Database Abstraction Layer.
 Presented results at CAiSE in Ljubljana, Slovenia.
 \cite{lorey2016teal}
+\sectionsep
+
+\runsubsection{KIT: IMK-ASF}
+\descript{| Research Assisstant}
+\location{Nov 2014 – Apr 2015 | Karlsruhe, Germany}
+Conducted research on flight data to find influencing factors on airplane vibrations via Data Mining techniques using SPSS and KNIME.
+%\item researched different time-series databases for their applicability to store data in-flight
 \sectionsep
 
 \runsubsection{Chair Prof. Tran-Gia}
