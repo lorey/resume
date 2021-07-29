@@ -66,7 +66,7 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \namesection{Karl}{Lorey}{ \urlstyle{same}\href{https://karllorey.com}{karllorey.com}\\
-\href{mailto:jobs@karllorey.de}{jobs@karllorey.de} | +49 152 0840 7840 | Karlsruhe, Germany
+\href{mailto:jobs@karllorey.de}{jobs@karllorey.de} | +49 152 0840 7840 | Stuttgart, Germany
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -85,7 +85,7 @@
 \begin{flushleft}
 Technologist with an entrepreneurial and academical background, 
 leveraging machine learning, scraping, and web development
-to build data-intensive platforms.
+to build data-driven platforms.
 \end{flushleft}
 
 LinkedIn:// \href{https://www.linkedin.com/in/karllorey}{\bf Karl Lorey} \\
@@ -138,6 +138,8 @@ LaTeX
 scikit-learn
 \textbullet{}~spaCy
 \textbullet{}~Pandas
+\textbullet{}~Kafka
+\textbullet{}~Spark
 \textbullet{}~Scrapy
 \textbullet{}~Selenium
 \textbullet{}~Django
@@ -199,10 +201,18 @@ Social Network Analysis
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
+\runsubsection{HAYS}
+\descript{| Senior Specialist Machine Learning, Lead CRM/CDM/GDPR}
+\location{Aug 2020 - Apr 2021 | Stuttgart, Germany}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item leading customer data and relationship management as well as GDPR for a German-Chinese car manufacturer
+\end{tightemize}
+\sectionsep
+
 \runsubsection{First Momentum}
 \descript{| Founding Partner}
 \location{Jul 2017 - Apr 2020 | Karlsruhe, Germany}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item founding and leading a tech-focused early-stage venture capital fund with a volume of €5M
 \item establishing a technological competitive advantage by implementing scrapers and machine learning to find investment opportunities
@@ -215,16 +225,6 @@ Social Network Analysis
 \begin{tightemize}
 \item built a platform for foreign IT professional willing to relocate to Germany
 \item automated the recruiting process and applied Machine Learning to implement a scalable screening process
-\end{tightemize}
-\sectionsep
-
-\runsubsection{PionierGarage}
-\descript{| Chairman}
-\location{Jul 2015 – Feb 2016 | Karlsruhe, Germany}
-\begin{tightemize}
-\item was elected chairman of Germany's biggest student club for entrepreneurship
-\item lead a board of six members and the club with around 100 members
-\item hosted events, managed public relations as well as contact with alumni
 \end{tightemize}
 \sectionsep
 
