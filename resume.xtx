@@ -117,21 +117,9 @@ A+, with distinction
 
 \section{Skills}
 \subsection{Languages}
-Experienced:\\
-Python
-\textbullet{}~SQL
-\textbullet{}~PHP\\
-Intermediate:\\
-Java
-\textbullet{}~HCL
-\textbullet{}~HTML/CSS
-\textbullet{}~JavaScript\\
-Familiar:\\
-LaTeX
-\textbullet{}~YAML
-\textbullet{}~R
-\textbullet{}~Bash
-\textbullet{}~XSLT
+Experienced in Python, SQL\\
+Intermediate in Java, PHP, HTML/CSS, Javascript, RegEx\\
+Familiar with LaTeX, YAML, Bash, XSLT, Typescript
 \sectionsep
 
 \subsection{Technologies}
@@ -172,8 +160,11 @@ scikit-learn
 \sectionsep
 
 \subsection{Topics}
-Academic~Research,
-Venture Capital,
+Leadership,
+Nearshoring,
+Offshoring,
+SCRUM,
+Venture~Capital,
 Entrepreneurship,
 Automation,
 Software~Engineering,
@@ -201,10 +192,18 @@ Social Network Analysis
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
-\runsubsection{HAYS}
-\descript{| Senior Specialist Machine Learning, Lead CRM/CDM/GDPR}
-\location{Aug 2020 - Apr 2021 | Stuttgart, Germany}
+\runsubsection{PartsCloud}
+\descript{| (Interim) CTO}
+\location{Sep 2021 - today | Stuttgart, Germany}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item building a platform to supercharge OEMs' spare parts fulfillment
+\end{tightemize}
+\sectionsep
+
+\runsubsection{HAYS}
+\descript{| Senior Specialist ML, leading CRM/CDM/GDPR}
+\location{Aug 2020 - Apr 2021 | Stuttgart, Germany}
 \begin{tightemize}
 \item leading customer data and relationship management as well as GDPR for a German-Chinese car manufacturer
 \end{tightemize}
@@ -254,22 +253,6 @@ Conducted research on flight data to find influencing factors on airplane vibrat
 Planned, created, and implemented a framework to measure subjective influence in online social networks. 
 %Obtained data by programming a Facebook app that asks users questions about their friends. 
 \cite{seufert2016assessment}, \cite{seufert2013gamification}
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     AWARDS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Awards}
-\begin{tabular}{rll}
-2016 & award & Award for Student Commitment (KIT)\\
-2016 & 3\textsuperscript{rd} & Hack.Stuttgart hackathon by Daimler\\
-2016 & honoring & Honoring by KIT's president (Ehrenabend des Präsidenten) \\
-%2016 & 1 of ~100 & Selected participant of the hackathon at Bosch Connected Experience\\
-2016 & 3\textsuperscript{rd} & 3 Day Startup competition at WHU\\
-2015 & 1\textsuperscript{st} & codeFEST$^{8}$ hackathon by Volkswagen (DACH)\\
-%2014 & 2\textsuperscript{nd} & Data Mining Cup by prudsys\\
-\end{tabular}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
