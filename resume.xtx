@@ -66,7 +66,7 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \namesection{Karl}{Lorey}{ \urlstyle{same}\href{https://karllorey.com}{karllorey.com}\\
-\href{mailto:jobs@karllorey.de}{jobs@karllorey.de} | +49 152 0840 7840 | Stuttgart, Germany
+\href{mailto:jobs@karllorey.de}{jobs@karllorey.de} | +49 152 0840 7840 | Berlin, Germany
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -83,9 +83,8 @@
 
 \section{About}
 \begin{flushleft}
-Technologist with an entrepreneurial and academical background, 
-leveraging machine learning, scraping, and web development
-to build data-driven platforms.
+Technology lead with an entrepreneurial and academical background
+using data to automate decisions and build platforms.
 \end{flushleft}
 
 LinkedIn:// \href{https://www.linkedin.com/in/karllorey}{\bf Karl Lorey} \\
@@ -123,21 +122,22 @@ Familiar with LaTeX, YAML, Bash, XSLT, Typescript
 \sectionsep
 
 \subsection{Technologies}
+% ml
 scikit-learn
 \textbullet{}~spaCy
 \textbullet{}~Pandas
-\textbullet{}~Kafka
-\textbullet{}~Spark
+% data 
+% scraping
 \textbullet{}~Scrapy
 \textbullet{}~Selenium
+% web
 \textbullet{}~Django
+\textbullet{}~React
 \textbullet{}~Laravel
-\textbullet{}~Docker
-\textbullet{}~Terraform
-\textbullet{}~Ansible
-\textbullet{}~GNU Make
-\textbullet{}~AWS
-\textbullet{}~GCP
+\textbullet{}~Flask
+\textbullet{}~Nginx
+\textbullet{}~Apache
+% databases
 \textbullet{}~Postgres
 \textbullet{}~PostGIS
 \textbullet{}~SQLite
@@ -145,17 +145,24 @@ scikit-learn
 \textbullet{}~MongoDB
 \textbullet{}~elasticsearch
 \textbullet{}~Redis
-\textbullet{}~GIT
+\textbullet{}~Kafka
+\textbullet{}~Spark
+% deployment
+\textbullet{}~Docker
+\textbullet{}~Terraform
+\textbullet{}~Ansible
+\textbullet{}~GNU Make
+\textbullet{}~AWS
+\textbullet{}~GCP
 \textbullet{}~Gitlab
+\textbullet{}~Grafana
+% CI/CD
+\textbullet{}~GIT
 \textbullet{}~Unix
 \textbullet{}~Debian
-\textbullet{}~Apache
-\textbullet{}~Nginx
 \textbullet{}~KNIME
 \textbullet{}~SPSS
-\textbullet{}~Grafana
 \textbullet{}~LDAP
-\textbullet{}~i3wm
 \textbullet{}~UML
 \sectionsep
 
@@ -163,11 +170,13 @@ scikit-learn
 Leadership,
 Nearshoring,
 Offshoring,
-SCRUM,
+Scrum,
+Data-driven~decisions,
 Venture~Capital,
 Entrepreneurship,
 Automation,
 Software~Engineering,
+Requirements~Engineering,
 Clean~Code,
 Test-driven~development,
 Web~Development,
@@ -213,8 +222,8 @@ Social Network Analysis
 \descript{| Founding Partner}
 \location{Jul 2017 - Apr 2020 | Karlsruhe, Germany}
 \begin{tightemize}
-\item founding and leading a tech-focused early-stage venture capital fund with a volume of €5M
-\item establishing a technological competitive advantage by implementing scrapers and machine learning to find investment opportunities
+\item founded and lead a tech-focused pre-seed venture capital fund of €5M
+\item established a competitive edge by using machine learning to find investment opportunities
 \end{tightemize}
 \sectionsep
 
@@ -222,8 +231,7 @@ Social Network Analysis
 \descript{| Co-Founder }
 \location{Jul 2016 - Mar 2017 | Stuttgart, Germany}
 \begin{tightemize}
-\item built a platform for foreign IT professional willing to relocate to Germany
-\item automated the recruiting process and applied Machine Learning to implement a scalable screening process
+\item built a platform to acquire, assess, and relocate foreign IT professionals
 \end{tightemize}
 \sectionsep
 
