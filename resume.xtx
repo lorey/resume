@@ -118,7 +118,7 @@ A+, with distinction
 \subsection{Languages}
 Experienced in Python, SQL\\
 Intermediate in Java, PHP, HTML/CSS, Javascript, RegEx\\
-Familiar with LaTeX, YAML, Bash, XSLT, Typescript
+Familiar with LaTeX, YAML, Bash, XSLT, Typescript, GraphQL
 \sectionsep
 
 \subsection{Technologies}
@@ -130,13 +130,16 @@ scikit-learn
 % scraping
 \textbullet{}~Scrapy
 \textbullet{}~Selenium
-% web
+% backend
 \textbullet{}~Django
-\textbullet{}~React
 \textbullet{}~Laravel
 \textbullet{}~Flask
-\textbullet{}~Nginx
-\textbullet{}~Apache
+% frontend
+\textbullet{}~React
+\textbullet{}~GatsbyJS
+\textbullet{}~NextJS
+\textbullet{}~Tailwind
+\textbullet{}~Bootstrap
 % databases
 \textbullet{}~Postgres
 \textbullet{}~PostGIS
@@ -151,7 +154,7 @@ scikit-learn
 \textbullet{}~Docker
 \textbullet{}~Terraform
 \textbullet{}~Ansible
-\textbullet{}~GNU Make
+\textbullet{}~GNU~Make
 \textbullet{}~AWS
 \textbullet{}~GCP
 \textbullet{}~Gitlab
