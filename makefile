@@ -9,8 +9,6 @@ resume.jpg: resume.pdf .data/build.sentinel
 
 resume.pdf: .data/build.sentinel resume.xtx
 	docker run --rm -v $$(pwd):/data lorey/resume:latest xelatex -synctex=1 -interaction=nonstopmode resume.xtx
-	docker run --rm -v $$(pwd):/data lorey/resume:latest bibtex resume.aux
-	docker run --rm -v $$(pwd):/data lorey/resume:latest xelatex -synctex=1 -interaction=nonstopmode resume.xtx
 	docker run --rm -v $$(pwd):/data lorey/resume:latest xelatex -synctex=1 -interaction=nonstopmode resume.xtx
 
 .data/build.sentinel: Dockerfile
