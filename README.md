@@ -1,4 +1,4 @@
-![Resume preview](https://github.com/lorey/resume/raw/master/resume.jpg)
+![Resume preview](https://github.com/lorey/resume/raw/main/resume.jpg)
 
 # Resume of Karl Lorey
 
@@ -11,7 +11,7 @@ and a sidebar with an added about section
 and  more skills instead of coursework
 to focus on actual experience.
 
-[View PDF](https://github.com/lorey/resume/raw/master/resume.pdf)
+[View PDF](https://github.com/lorey/resume/raw/main/resume.pdf)
 
 ## Modifications
 * Small bibliography to fit more publications
