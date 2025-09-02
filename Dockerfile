@@ -10,15 +10,7 @@ RUN apt-get update && \
   lmodern \
   texlive-latex-base \
   texlive-latex-recommended \
-  # texlive-latex-extra \
-  # texlive-generic-extra \
-  # texlive-generic-recommended \
   texlive-lang-english \
-  # latex-xcolor \
-  # texlive-math-extra \
-  # texlive-bibtex-extra \
-  # texlive-full \
-  # texlive-fonts-extra \
   texlive-fonts-recommended \
   fonts-freefont-ttf \
   fonts-freefont-otf \
@@ -39,9 +31,6 @@ RUN apt-get autoclean && apt-get --purge --yes autoremove && \
 COPY fonts/lato/* /usr/local/share/fonts/
 COPY fonts/raleway/* /usr/local/share/fonts/
 RUN fc-cache
-
-# remove PDF policy to avoid error
-# RUN sed -i '/<policy .*pattern="PDF" \/>/d' /etc/ImageMagick-6/policy.xml
 
 # Export the output data
 WORKDIR /data
