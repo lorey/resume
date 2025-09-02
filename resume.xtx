@@ -236,45 +236,6 @@ Social Network Analysis
 \begin{tightemize}
 \item built a platform to acquire, assess, and relocate foreign IT professionals
 \end{tightemize}
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     RESEARCH
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Research}
-\runsubsection{Chair Prof. Böhm, IPD, KIT}
-\descript{| Research Assisstant}
-\location{May 2015 – Jun 2016 | Karlsruhe Institute of Technology, Germany}
-Created a Secure Storage mechanism that resides inside the Database Abstraction Layer.
-Presented results at CAiSE in Ljubljana, Slovenia.
-\cite{lorey2016teal}
-\sectionsep
-
-\runsubsection{KIT: IMK-ASF}
-\descript{| Research Assisstant}
-\location{Nov 2014 – Apr 2015 | Karlsruhe, Germany}
-Conducted research on flight data to find influencing factors on airplane vibrations via Data Mining techniques using SPSS and KNIME.
-%\item researched different time-series databases for their applicability to store data in-flight
-\sectionsep
-
-\runsubsection{Chair Prof. Tran-Gia}
-\descript{| Research Assistant}
-\location{Mar 2013 – Jun 2014 | University of Würzburg, Germany}
-Planned, created, and implemented a framework to measure subjective influence in online social networks. 
-%Obtained data by programming a Facebook app that asks users questions about their friends. 
-\cite{seufert2016assessment}, \cite{seufert2013gamification}
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     PUBLICATIONS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Publications}
-\renewcommand\refname{\vskip -0.75cm} % Couldn't get this working from the .cls file
-\bibliographystyle{abbrv}
-{\footnotesize \bibliography{publications}}
-\nocite{*}
 
 \end{minipage} 
 \end{document}  \documentclass[]{article}
