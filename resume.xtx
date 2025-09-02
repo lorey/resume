@@ -124,7 +124,6 @@ Familiar with LaTeX, YAML, Bash, XSLT, Typescript, GraphQL
 \subsection{Technologies}
 % ml
 scikit-learn
-\textbullet{}~spaCy
 \textbullet{}~Pandas
 % data 
 % scraping
@@ -136,7 +135,6 @@ scikit-learn
 \textbullet{}~Flask
 % frontend
 \textbullet{}~React
-\textbullet{}~GatsbyJS
 \textbullet{}~NextJS
 \textbullet{}~Tailwind
 \textbullet{}~Bootstrap
@@ -153,7 +151,6 @@ scikit-learn
 % deployment
 \textbullet{}~Docker
 \textbullet{}~Terraform
-\textbullet{}~Ansible
 \textbullet{}~GNU~Make
 \textbullet{}~AWS
 \textbullet{}~GCP
@@ -163,8 +160,6 @@ scikit-learn
 \textbullet{}~GIT
 \textbullet{}~Unix
 \textbullet{}~Debian
-\textbullet{}~KNIME
-\textbullet{}~SPSS
 \textbullet{}~LDAP
 \textbullet{}~UML
 \sectionsep
