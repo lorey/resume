@@ -1,6 +1,6 @@
-FROM debian:buster
+FROM debian:13
 
-ENV DEBIAN_FRONTEND noninteractive
+ENV DEBIAN_FRONTEND=noninteractive
 
 # Install all TeX and LaTeX dependences
 RUN apt-get update && \
@@ -9,16 +9,17 @@ RUN apt-get update && \
   ca-certificates \
   lmodern \
   texlive-latex-base \
-  texlive-generic-extra \
-  texlive-fonts-extra \
-  texlive-fonts-recommended \
-  texlive-generic-recommended \
+  texlive-latex-recommended \
+  # texlive-latex-extra \
+  # texlive-generic-extra \
+  # texlive-generic-recommended \
   texlive-lang-english \
   # latex-xcolor \
   # texlive-math-extra \
-  texlive-latex-extra \
-  texlive-bibtex-extra \
-  texlive-full \
+  # texlive-bibtex-extra \
+  # texlive-full \
+  # texlive-fonts-extra \
+  texlive-fonts-recommended \
   fonts-freefont-ttf \
   fonts-freefont-otf \
   fonts-roboto \
@@ -28,7 +29,9 @@ RUN apt-get update && \
   texlive-xetex \
   cabextract \
   xfonts-utils \
-  libimage-exiftool-perl
+  libimage-exiftool-perl \
+  imagemagick \
+  ghostscript
 RUN apt-get autoclean && apt-get --purge --yes autoremove && \
   rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 
@@ -38,7 +41,7 @@ COPY fonts/raleway/* /usr/local/share/fonts/
 RUN fc-cache
 
 # remove PDF policy to avoid error
-RUN sed -i '/<policy .*pattern="PDF" \/>/d' /etc/ImageMagick-6/policy.xml
+# RUN sed -i '/<policy .*pattern="PDF" \/>/d' /etc/ImageMagick-6/policy.xml
 
 # Export the output data
 WORKDIR /data
