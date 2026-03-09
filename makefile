@@ -1,10 +1,10 @@
 .PHONY: all
 SHELL := /bin/bash
 
-all: .data/build.sentinel resume.pdf resume.jpg
+all: .data/build.sentinel resume.pdf resume.png
 
-resume.jpg: resume.pdf .data/build.sentinel
-	docker run --rm -v $$(pwd):/data lorey/resume:latest convert -density 300 -flatten resume.pdf -resize 50% -quality 66 resume.jpg
+resume.png: resume.pdf .data/build.sentinel
+	docker run --rm -v $$(pwd):/data lorey/resume:latest convert -density 150 -flatten resume.pdf resume.png
 	
 
 resume.pdf: .data/build.sentinel resume.xtx

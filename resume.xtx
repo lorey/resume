@@ -65,8 +65,7 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Karl}{Lorey}{ \urlstyle{same}\href{https://karllorey.com}{karllorey.com}\\
-\href{mailto:jobs@karllorey.de}{jobs@karllorey.de} | +49 152 0840 7840 | Berlin, Germany
+\namesection{Karl}{Lorey}{ \urlstyle{same}\href{https://karllorey.com}{mail@karllorey.com}\\
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -84,30 +83,33 @@
 \section{About}
 \begin{flushleft}
 Technology lead with an entrepreneurial and academical background
-using data to automate decisions and build platforms.
+using data to build platforms and automate processes end-to-end.
 \end{flushleft}
 
-LinkedIn:// \href{https://www.linkedin.com/in/karllorey}{\bf Karl Lorey} \\
-Github:// \href{https://github.com/lorey}{\bf lorey} \\
+tel://+4915208407840 \\
+linkedin://\href{https://www.linkedin.com/in/karllorey}{\bf karllorey} \\
+github://\href{https://github.com/lorey}{\bf lorey} \\
 % Instagram:// \href{https://instagram.com/karllorey}{\bf @karllorey} \\
 % StackOverflow:// \href{https://stackoverflow.com/users/1275778/lorey}{\bf lorey} \\
-Twitter:// \href{https://twitter.com/karllorey}{\bf @karllorey}
+x://\href{https://twitter.com/karllorey}{\bf karllorey}
 \sectionsep
 
 \section{Education} 
 
-\subsection{KIT}
-\descript{MSc in Computer Science}
-\location{Nov 2017 | Karlsruhe, Germany}
-Information~Systems, Software~Engineering, Entrepreneurship\\
-A+, with distinction
+\subsection{MSc, Computer Science}
+\descript{Karlsruhe Institute of Technology}
+\location{Karlsruhe, Germany}
+Information Systems, Software Engineering, Entrepreneurship\\
+A+, with distinction,
+two publications
 \sectionsep
 
-\subsection{University of Würzburg}
-\descript{BSc in Computer Science}
-\location{Sep 2013 | Würzburg, Germany}
+\subsection{BSc, Computer Science}
+\descript{University of Würzburg}
+\location{Würzburg, Germany}
 Information~Systems, Economics\\
-A+, with distinction
+A+, with distinction,
+one publication
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -116,9 +118,8 @@ A+, with distinction
 
 \section{Skills}
 \subsection{Languages}
-Experienced in Python, SQL\\
-Intermediate in Java, PHP, HTML/CSS, Javascript, RegEx\\
-Familiar with LaTeX, YAML, Bash, XSLT, Typescript, GraphQL
+Python, SQL, Java, PHP, HTML/CSS, Typescript, RegEx
+LaTeX, YAML, Bash, XSLT, Typescript, GraphQL, HCL
 \sectionsep
 
 \subsection{Technologies}
@@ -127,20 +128,18 @@ scikit-learn
 \textbullet{}~Pandas
 % data 
 % scraping
+\textbullet{}~Playwright
 \textbullet{}~Scrapy
-\textbullet{}~Selenium
 % backend
+\textbullet{}~FastAPI
 \textbullet{}~Django
 \textbullet{}~Laravel
-\textbullet{}~Flask
 % frontend
-\textbullet{}~React
 \textbullet{}~NextJS
+\textbullet{}~React
 \textbullet{}~Tailwind
-\textbullet{}~Bootstrap
 % databases
 \textbullet{}~Postgres
-\textbullet{}~PostGIS
 \textbullet{}~SQLite
 \textbullet{}~MySQL/MariaDB
 \textbullet{}~MongoDB
@@ -166,22 +165,20 @@ scikit-learn
 
 \subsection{Topics}
 Leadership,
-Nearshoring,
-Offshoring,
-Scrum,
-Data-driven~decisions,
 Venture~Capital,
+Near-/Offshoring,
+Scrum,
+Data-driven decisions,
 Entrepreneurship,
-Automation,
-Software~Engineering,
-Requirements~Engineering,
+Process Automation,
+Software Engineering,
+Requirements Engineering,
 Clean~Code,
-Test-driven~development,
-Web~Development,
-Machine~Learning,
-Crawling/Scraping,
-Geospatial~Data,
-Social Network Analysis
+Test-driven development,
+Web Development,
+Machine Learning,
+Undetected Crawling/Scraping,
+Geospatial~Data
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -199,37 +196,67 @@ Social Network Analysis
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
-\runsubsection{PartsCloud}
-\descript{| (Interim) CTO}
-\location{Sep 2021 - today | Stuttgart, Germany}
+
+\runsubsection{Apistemic}
+\descript{| Managing Director}
+\location{2023 - today | Berlin, Germany}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item building a platform to supercharge OEMs' spare parts fulfillment
+\item founded and launched AI startup building a data layer for intelligent systems
+\item built and launched startupradar.co, an AI-first platform for investors
+        enabling top-tier firms across Europe to find relevant startups globally
+\item designed and implemented large-scale data ingestion and machine learning pipelines 
+        to predict startup success and investor relevancy
+\end{tightemize}
+\sectionsep
+
+\runsubsection{PartsCloud}
+\descript{| (Interim) CTO}
+\location{2021 - 2022 | Stuttgart, Germany}
+\begin{tightemize}
+\item led technical strategy from idea stage through successful €1M+ seed round
+\item designed customer journey and lead requirements engineering process for AI-powered spare parts platform
+\item recruited and onboarded CTO, ensuring smooth leadership transition
 \end{tightemize}
 \sectionsep
 
 \runsubsection{HAYS}
-\descript{| Senior Specialist ML, leading CRM/CDM/GDPR}
-\location{Aug 2020 - Apr 2021 | Stuttgart, Germany}
+\descript{| Business Owner CRM/CDM/GDPR}
+\location{2020 - 2021 | Stuttgart, Germany}
 \begin{tightemize}
-\item leading customer data and relationship management as well as GDPR for a German-Chinese car manufacturer
+\item managed CRM, CDM, and GDPR for a German-Chinese automotive client in an international team, reporting directly to C-level 
+\item led requirements engineering as SAFe Business Owner across two continents, three suppliers, and three SCRUM teams for an enterprise platform
+\item conducted technical assessments for €10M+ tender processes across EU and China markets as well as deep dives into future data architecture
 \end{tightemize}
 \sectionsep
 
 \runsubsection{First Momentum}
 \descript{| Founding Partner}
-\location{Jul 2017 - Apr 2020 | Karlsruhe, Germany}
+\location{2016 - 2020 | Karlsruhe, Germany}
 \begin{tightemize}
-\item founded and lead a tech-focused pre-seed venture capital fund of €5M
-\item established a competitive edge by using machine learning to find investment opportunities
+\item founded and co-lead one of Europe's leading deep tech venture capital funds
+\item established a competitive edge by building startup scrapers and using machine learning to find investment opportunities
+\item desinged and implemented a SaaS platform enabling investors to access dealflow automatically
 \end{tightemize}
 \sectionsep
 
 \runsubsection{German IT Jobs}
-\descript{| Co-Founder }
-\location{Jul 2016 - Mar 2017 | Stuttgart, Germany}
+\descript{| Co-Founder \& CTO}
+\location{2015 - 2017 | Stuttgart, Germany}
 \begin{tightemize}
-\item built a platform to acquire, assess, and relocate foreign IT professionals
+\item co-founded a talent and recruiting platform connecting international developers with German companies
+\item designed and implemented processes to automatically engage, acquire, and screen candidates, leading to a fully autonomous application process
+\item built platform scrapers to automatically find and approach exceptional technical talent
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Karlsruhe Institute of Technology}
+\descript{| Research Assistant }
+\location{2014 - 2016 | Karlsruhe, Germany}
+\begin{tightemize}
+\item conducted data analysis on safety-critical airplane vibrations and finding their cause, which lead to their elimination
+\item desinged and implemented a transparent encryption layer by translating database queries at runtime
+\item published three academic papers in the process
 \end{tightemize}
 
 \end{minipage} 
